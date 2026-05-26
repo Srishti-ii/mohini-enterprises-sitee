@@ -11,7 +11,7 @@ const Footer = () => {
           {/* About Section */}
           <div className="space-y-6">
             <div className="flex items-center gap-3">
-              <span className="material-symbols-outlined text-secondary-container text-3xl">light_mode</span>
+          <img src="/img/logo.png" alt="Mohini Enterprises Logo" className="h-12 w-12" />
               <h2 className="font-display text-2xl font-bold text-yellow-500">Mohini Enterprises</h2>
             </div>
             <p className="text-white/70 text-sm leading-relaxed max-w-sm">

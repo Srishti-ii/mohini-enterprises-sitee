@@ -12,11 +12,14 @@ import ServiceDetail from './Components/Pages/ServiceDetail.jsx';
 import Products from './Components/Pages/Products.jsx';
 import ProductDetail from './Components/Pages/ProductDetail.jsx';
 import Contact from './Components/Pages/Contact.jsx';
+import ScrollToTop from './Components/ScrollToTop.jsx'; 
 export default function App() {
   return (
     <Router>
+       <ScrollToTop />
       <Layout>
         <Routes>
+         
           <Route path="/" element={<Home />} />
           <Route path="/book-consult" element={<BookConsult />} />
           <Route path="/about-us" element={<AboutUs />} />

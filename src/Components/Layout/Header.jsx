@@ -45,7 +45,7 @@ const Header = () => {
         
         {/* Logo */}
         <Link to="/" className="flex items-center gap-3 z-50">
-          <span className="material-symbols-outlined text-secondary-container text-3xl drop-shadow-[0_0_8px_rgba(252,212,0,0.5)]">light_mode</span>
+          <img src="/img/logo.png" alt="Mohini Enterprises Logo" className="h-12 w-12" />
           <h1 className="font-display text-2xl font-bold tracking-tight text-white">Mohini Enterprises</h1>
         </Link>
         
