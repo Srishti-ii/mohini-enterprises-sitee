@@ -266,7 +266,7 @@ const Home = () => {
 },
     { icon: 'electric_meter', title: 'ACDB & DCDB', desc: 'Our ACDB & DCDB units ensure safe and efficient power distribution, protecting your solar system.' },
     { icon: 'cable', title: 'Wiring & Cabling', desc: 'Our solar-grade wiring and cabling are designed for durability and weather resistance.' },
-    { icon: 'ac_unit', title: 'Air Conditioners (AC)', desc: 'Stay cool the smart way with energy-efficient air conditioners designed for seamless solar integration.' },
+    { icon: 'ac_unit', title: 'Solar Air Conditioners (AC)', desc: 'Stay cool the smart way with energy-efficient air conditioners designed for seamless solar integration.' },
     { icon: 'router', title: 'Inverters', desc: 'Our inverters ensure smooth and efficient DC to AC power conversion, delivering consistent output.' },
   ];
 

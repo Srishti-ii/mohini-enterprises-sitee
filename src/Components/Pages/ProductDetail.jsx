@@ -67,27 +67,25 @@ const productData = {
     ],
     description: 'Our panels utilize advanced PERC technology to ensure optimal sunlight conversion. Engineered for durability, they withstand high wind speeds and heavy snow loads.'
   },
-  'air-conditioners-(ac)': {
-    title: 'Air Conditioners (AC)',
-    bgImage:'/img/ac.webp',
-    intro: 'At Mohini Enterprises, our Energy-Efficient Air Conditioners (AC) are designed to offer optimal cooling performance while being eco-friendly and cost-effective. These AC units seamlessly integrate with solar power systems, making them an excellent choice for reducing electricity consumption and maximizing the use of renewable energy. By utilizing solar energy for cooling, our air conditioners not only lower your energy bills but also contribute to a cleaner environment. Whether for residential or commercial use, our AC units are engineered for long-lasting performance, energy savings, and easy integration with existing solar systems. With advanced features like smart thermostats, silent operation, and superior cooling efficiency, you can enjoy comfortable indoor environments without compromising on sustainability.',
-    specs: ['☀️ Solar-Powered Cooling – Operates using solar energy to reduce electricity costs',
-      '🌱 Energy Efficiency – Low power consumption with high cooling output',
-      '🧊 Superior Cooling Performance – Quick and effective temperature control for any space',
-      '💡 Smart Thermostat Integration – Automatically adjusts temperature based on usage and time of day',
-      '🔇 Silent Operation – Designed for quiet, comfortable cooling in homes or offices',
-      '🌍 Eco-Friendly – Reduces carbon footprint and reliance on the grid',
-      '🏡 Seamless Solar Integration – Easily connects with existing solar systems for greater savings',
-      '🛠️ Low Maintenance – Durable and built to last with minimal upkeep'
-
-],  trustedCompanies: [
-      { name: 'Voltas', logo: '/img/voltas.jpg', desc: "India's #1 selling AC brand, widest service network (Tata Group)" },
-      { name: 'Blue Star', logo: '/img/bluestar.jpg', desc: 'Premium Indian engineering, best for large rooms & commercial use ' },
-       { name: 'Daikin India', logo: '/img/daikin.jpg', desc: ' Most energy-efficient AC, popular in residential & commercial' },
-        { name: 'Godrej', logo: '/img/godrej.jpg', desc: 'Affordable, durable ACs suited for Indian conditions' }
-      // ... add more for this product
+ 'air-conditioners-(ac)': {
+    title: 'Global Choice Solar Air Conditioners (AC)',
+    bgImage: '/img/ac.webp',
+    intro: 'Our innovative solar-powered air conditioning solutions are designed to provide energy-efficient and eco-friendly cooling. Our AC units seamlessly integrate with solar power systems for 100% solar-powered efficiency. By utilizing solar energy, our air conditioners drastically lower your electricity bills while contributing to a greener planet. From standard 1 Ton units to Heavy Duty 2 Ton and Hot & Cold variants, our ACs are engineered for long-lasting performance, high cost savings, and easy installation with minimal maintenance.',
+    specs: [
+      '☀️ 100% Solar-Powered Efficiency – Operates using solar energy to drastically reduce electricity bills',
+      '🌱 Cost-Effective & Sustainable – Eco-friendly cooling that helps lower your carbon footprint',
+      '🧊 Versatile Tonnage Options – Available in 1 Ton, 1.5 Ton (Heavy Duty), and 2 Ton (Heavy Duty) models',
+      '🌡️ All-Season Comfort – Global Cool Hot & Cold AC options available for year-round climate control',
+      '🛠️ Easy Installation & Maintenance – Simple setup ensures hassle-free operation for years',
+      '⚡ Proven Impact – Over 5,500+ solar units installed and 2 Million+ kWh of energy saved'
     ],
-    description: 'Our panels utilize advanced PERC technology to ensure optimal sunlight conversion. Engineered for durability, they withstand high wind speeds and heavy snow loads.'
+   trustedCompanies: [
+  { name: 'Nexus Solar Energy', logo: '/img/nexus.jpg', desc: 'Market leader in hybrid solar air conditioners and off-grid solar appliances' },
+  { name: 'Luminous', logo: '/img/luminous.jpg', desc: "India's top energy brand, offering highly efficient solar power and battery-integrated cooling setups" },
+  { name: 'Lloyd', logo: '/img/lloyd.png', desc: 'Trusted consumer electronics brand providing smart, energy-efficient solar-compatible inverter ACs' },
+  { name: 'Infokool Solution Private Limited', logo: '/img/infokool.jpeg', desc: 'Specializes in affordable solar cooling systems, manufacturing both solar window and split air conditioners.' }
+],
+    description: 'Backed by over 10,000 happy customers, our solar ACs represent pioneering excellence in solar innovation. We prioritize simple setup, reliable comfort, and uncompromising quality to deliver unmatched value for modern energy needs.'
   },
   'inverters-&-batteries': {
     title: 'Inverters & Batteries',

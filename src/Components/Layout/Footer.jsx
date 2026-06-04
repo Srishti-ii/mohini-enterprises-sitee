@@ -25,7 +25,7 @@ const Footer = () => {
             
             <div className="text-white/70 text-sm space-y-4">
               <p><span className="font-bold text-white">Address:</span><br/>Mohammad Zai, Infront of Bank of Baroda, Mandi, Shahjahanpur U.P. – 242001.</p>
-              <p><span className="font-bold text-white">Mail:</span> info@mohinisolar.co.in</p>
+              <p><span className="font-bold text-white">Mail:</span> mohinienterprises80@gmail.com</p>
               <p><span className="font-bold text-white">Phone:</span> +916394858689, +919532598584
 </p>
          
@@ -34,18 +34,32 @@ const Footer = () => {
 
             {/* Social Media Logos */}
             <div className="flex items-center gap-4 pt-2">
-              <a href="#" className="w-10 h-10 rounded-full bg-white flex items-center justify-center hover:bg-yellow-500 transition-all">
-                <img src="/img/ig.png" alt="Instagram" className="w-full h-full object-contain " />
-              </a>
-              <a href="#" className="w-10 h-10 rounded-full bg-white flex items-center justify-center hover:bg-yellow-500 transition-all">
-                <img src="/img/linkedin.png" alt="LinkedIn" className="w-full h-full object-contain" />
-              </a>
-              <a href="#" className="w-10 h-10 rounded-full bg-white flex items-center justify-center hover:bg-yellow-500 transition-all">
-                <img src="/img/meta.png" alt="Facebook" className="w-full h-full object-contain" />
-              </a>
-              <a href="#" className="w-10 h-10 rounded-full bg-white flex items-center justify-center hover:bg-yellow-500 transition-all">
-                <img src="/img/x.webp" alt="Twitter" className="w-full h-full object-contain" />
-              </a>
+            <a 
+  href="https://www.instagram.com/mohinienterprises80?igsh=Y3pyYXZjZjhsZWFv" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  className="w-10 h-10 rounded-full bg-white flex items-center justify-center hover:bg-yellow-500 transition-all"
+>
+  <img src="/img/ig.png" alt="Instagram" className="w-full h-full object-contain" />
+</a>
+
+<a 
+  href="https://www.facebook.com/share/197dDVePpf/" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  className="w-10 h-10 rounded-full bg-white flex items-center justify-center hover:bg-yellow-500 transition-all"
+>
+  <img src="/img/meta.png" alt="Facebook" className="w-full h-full object-contain" />
+</a>
+
+<a 
+  href="https://youtube.com/@mohinienterprises80?si=M-Pg4wvc-BRcky5H" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  className="w-10 h-10 rounded-full bg-white flex items-center justify-center hover:bg-yellow-500 transition-all"
+>
+  <img src="/img/youtube.webp" alt="YouTube" className="w-full h-full object-contain" />
+</a>
             </div>
           </div>
         </div>
